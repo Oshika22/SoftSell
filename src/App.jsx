@@ -3,7 +3,7 @@ import { useRef } from 'react'
 import { BrowserRouter as Router, Routes, Route, useLocation } from 'react-router-dom';
 import BasicNavbar from './components/Navbar'
 import { Process } from './components/Process'
-import Hero from './components/hero'
+import Hero from './components/Hero'
 import Feature from './components/Feature'
 import Review from './components/review'
 import { ContactUs } from './components/ContactUs'
