@@ -5,7 +5,7 @@ import BasicNavbar from './components/Navbar'
 import { Process } from './components/Process'
 import Hero from './components/Hero'
 import Feature from './components/Feature'
-import Review from './components/review'
+import Review from './components/Review'
 import { ContactUs } from './components/ContactUs'
 import { Footer } from './components/Footer'
 function MainContent() {
