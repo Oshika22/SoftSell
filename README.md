@@ -7,7 +7,6 @@
 ## 🚀 Live Demo
 
 👉 [View Site on Vercel](https://soft-sell-7ri2.vercel.app/)  
-*(Replace with your actual Vercel link)*
 
 ---
 
